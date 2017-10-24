@@ -1,47 +1,36 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 1700011769王睿琪  
 
-主页: https://github.com/author
+主页: https://github.com/Wangruiqi1
 
 ---
 
-## 本讲内容
+### <font color="orangered">1.自我介绍
 
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+### 2. 我的宣言
 
 ---
 
 ## 第一部分
 
 ```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
+我叫王睿琪，来自河南省南阳市。我的一个爱好是看动漫。对于我而言，动漫就像是另一个平行宇宙，里面人物的悲欢离合深深地打动了我，特别是面临不幸时的坚持和努力。我的另一个爱好是看书。我觉得一本好书能向我打开一扇新世界的大门，比如说兰道尔·门罗的《What If》,向我展示了日常生活中各种奇怪的问题背后都有一个有趣的科学世界。不忘初心，继续前行是我送给大学的自己的一句话，希望在未来的四年我能坚守这句话。
+
 ```
 
 ---
 
-## 插图
+## 我的宣言
 
 ** Ada Lovelace **
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508837374486&di=9f1e8e2a307ac20e0466f7b689ce7ad4&imgtype=0&src=http%3A%2F%2F58pic.ooopic.com%2F58pic%2F23%2F19%2F11%2F50k58PICuRF.jpg" width=360 style="margin: 0px 80px">
 
 ---
 
@@ -59,4 +48,4 @@ $$e^{i\pi} + 1 = 0$$
 
 class: center, middle
 
-# 谢谢
+# Thank you!
