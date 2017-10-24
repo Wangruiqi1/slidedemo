@@ -40,6 +40,8 @@ class: center, middle
 
 <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508837374486&di=9f1e8e2a307ac20e0466f7b689ce7ad4&imgtype=0&src=http%3A%2F%2F58pic.ooopic.com%2F58pic%2F23%2F19%2F11%2F50k58PICuRF.jpg" width=360 style="margin: 0px 80px">
 
+---
+
 class: center, middle
 
 # Thank you!
